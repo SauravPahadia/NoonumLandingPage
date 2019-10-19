@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="402px" height="498px" viewBox="0 0 402 498" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Untitled 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-3.1%" y="-2.5%" width="106.2%" height="105.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="28.0326225%" x2="50%" y2="91.5549261%" id="linearGradient-2">
+            <stop stop-color="#B64D8A" offset="0%"></stop>
+            <stop stop-color="#4A24B3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="28.0326225%" x2="50%" y2="91.5549261%" id="linearGradient-3">
+            <stop stop-color="#B64D8A" offset="0%"></stop>
+            <stop stop-color="#4A24B3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="28.0326225%" x2="50%" y2="91.5549261%" id="linearGradient-4">
+            <stop stop-color="#B64D8A" offset="0%"></stop>
+            <stop stop-color="#4A24B3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ios-copy" filter="url(#filter-1)" transform="translate(9.000000, 9.000000)" fill-rule="nonzero">
+            <path d="M288,99 L378,99 C381.3,99 384,96.3 384,93 C384,84.8 380.3,77 374,71.7 L296.9,7.5 C292,3.4 282.7,0.1 276.3,0.1 C272.2,0.1 268.9,3.4 268.9,7.5 L268.9,80 C269,90.5 277.5,99 288,99 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            <path d="M243,80 L243,0 L112,0 C94.4,0 80,14.4 80,32 L80,368 C80,385.6 94.4,400 112,400 L352,400 C369.6,400 384,385.6 384,368 L384,125 L288,125 C263.2,125 243,104.8 243,80 Z" id="Path" fill="url(#linearGradient-3)"></path>
+            <path d="M52,396 L52,64 L32,64 C14.4,64 0,78.4 0,96 L0,448 C0,465.6 14.4,480 32,480 L288,480 C305.6,480 320,465.6 320,448 L320,428 L84,428 C66.4,428 52,413.6 52,396 Z" id="Path" fill="url(#linearGradient-4)"></path>
+        </g>
+    </g>
+</svg>
